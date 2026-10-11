@@ -237,4 +237,4 @@ Pokémon GO is available as a complete free version for Windows, offering all fe
 Ready to catch 'em all? Download Pokémon GO now and embark on your Pokémon journey today!
 
 ---
-**Last updated:** 2026-10-10 21:29:35 UTC
+**Last updated:** 2026-10-11 00:47:12 UTC
